@@ -12,7 +12,7 @@ or on my LinkedIn profile:
 
 Olá!
 
-Bom ver você por aqui, sou o Lucas, um desenvolvedor e estudante de Full Stack, tenho 21 anos, estudo programação desde 2016 e desde SEMPRE tive minha parte de contato com tecnologia no geral. Aqui você vai encontrar meus projetos públicos, alguns são testes, outros são genuinamente minhas ideias e alguns podem até ser projetos da faculdade. Sinta-se livre para explorar.
+Bom ver você por aqui, sou o Lucas, um desenvolvedor e estudante de Full Stack, tenho 21 anos, estudo programação desde 2016 e desde sempre tive minha parte de contato com tecnologia no geral. Aqui você vai encontrar meus projetos públicos, alguns são testes, outros são genuinamente minhas ideias e alguns podem até ser projetos da faculdade. Sinta-se livre para explorar.
 
 Você pode me contatar em:
 📫 wey.lucas1@gmail.com
