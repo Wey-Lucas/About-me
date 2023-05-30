@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Good to have you here, I'm Lucas, a 2y developer and Full Stack student, I've been studying programs since 2016 and always had my share of contact with technology in general. Here you'll find my public projects, some are tests, some are genuinly my ideas and some may be college projects. Feel free to look around.
+Good to have you here, I'm Lucas, a 22y developer and Full Stack student, I've been studying programs since 2016 and always had my share of contact with technology in general. Here you'll find my public projects, some are tests, some are genuinly my ideas and some may be college projects. Feel free to look around.
 
 You can reach me at:
 📫 wey.lucas1@gmail.com
